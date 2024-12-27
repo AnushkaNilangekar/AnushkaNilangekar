@@ -1,5 +1,17 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on my personal website!
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about:
+  My undergraduate years at Purdue University
+Transitioning from Computer Engineering to Software
+My work experience at Intuit and TechSera
+Switching from industry to Masters in Software Engineering
+Web Development
+- 📫 How to reach me: by email at anushka.nilangekar1@gmail.com, or by Linkedin DM!
+- 😄 Pronouns: she/her/hers
+- ⚡ Fun fact: ...
 <!--
 **AnushkaNilangekar/AnushkaNilangekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
