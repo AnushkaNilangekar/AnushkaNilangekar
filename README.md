@@ -4,7 +4,7 @@
 I'm a software engineer and recent Computer Science graduate from Purdue University, with a passion for building creative and practical software. From coding games inspired by campus life to tackling real-world engineering challenges, I enjoy bringing ideas to life through code!
 
 - 🔭 *I’m currently working on*: my personal website!
-- 🌱 *I’m currently learning*: Contributing to open source
+- 🌱 *I’m currently learning*: About open source contributions, Python backend tools, and LLMs!
 - 👯 *I’m looking to collaborate on*: any full-stack projects and hackathons :))
 - 🤔 *I’m looking for help with*: Finding a full-time software engineering opportunity!
 - 💬 *Ask me about*:
